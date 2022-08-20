@@ -1,0 +1,182 @@
+[
+    {
+        "nombre": " Acevedo Manríquez María Mireya",
+        "profesion": "Ingeniera en Sistemas",
+        "pais":"Ecuador",
+        "Edad":"25",
+        "titulos":"Licenciatura en Sistema, Master en Sistema, Doctorado en Sistema",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://www.rubencampos.es/s/cc_images/cache_2482702028.jpg?t=1542047924"]
+    },
+    {
+        "nombre": "Acevedo Mejía Enrique",
+        "profesion": "Ingeniero en Sistemas",
+        "pais":"Ecuador",
+        "Edad":"38",
+        "titulos":"Licenciatura en Software, Master en Seguridad",
+        "Ciudad":"Portoviejo",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": " Acevedo Ruiz Carolina",
+        "profesion": "Ingeniera en Software",
+        "pais":"Ecuador",
+        "Edad":"36",
+        "titulos":"Licenciatura en Seguridad",
+        "Ciudad":"Portoviejo",
+        "foto": ["https://agencia-fotografia.com/wp-content/uploads/2017/01/Fotograf%C3%ADa-para-CV-en-Madrid.jpg"]
+    },
+    {
+        "nombre": "Galindo Aguirre Francisco",
+        "profesion": "Ingeniero en Sistemas",
+        "pais":"Ecuador",
+        "Edad":"29",
+        "titulos":"Licenciatura en Seguridad de la Informacion",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1425034585/content-items/001/228/844/sesion-estudio-barcelona-10-original.jpg?1425034585"]
+    },
+    {
+        "nombre": "Gallart Becerra Melania",
+        "profesion": "Ingeniera en Sistemas",
+        "pais":"Ecuador",
+        "Edad":"26",
+        "titulos":"Licenciatura en Sistema, Master en Seguridad",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://fotozambrano.com.co/wp-content/uploads/2019/07/foto-con-fondo-en-montaje-1.jpg"]
+    },
+    {
+        "nombre": "Roldán Briones Renata",
+        "profesion": "Ingeniera en Sistemas",
+        "pais":"Ecuador",
+        "Edad":"45",
+        "titulos":"Doctorado en Auditoria de Sotfware",
+        "Ciudad":"Manta",
+        "foto": ["https://fotozambrano.com.co/wp-content/uploads/2019/07/foto-con-fondo-en-montaje-2.jpg"]
+    },
+    {
+        "nombre": "Bueno Crespi Jordán",
+        "profesion": "Ingeniero en Sistemas",
+        "pais":"Ecuador",
+        "Edad":"56",
+        "titulos":"Master en Seguridad Informatica",
+        "Ciudad":"Manta",
+        "foto": ["http://www.insight.com.ec/wp-content/uploads/2020/08/retrato-perfil-profesional.jpg"]
+    },
+    {
+        "nombre": " Argello Melgar Ernesto",
+        "profesion": "Ingeniero Civil",
+        "pais":"Ecuador",
+        "Edad":"20",
+        "titulos":"Licenciatura en Arquitectura ",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://292aa00292a014763d1b-96a84504aed2b25fc1239be8d2b61736.ssl.cf1.rackcdn.com/PostImagem/22663/fotografo-de-retrato-corporativo_yuri-7.jpg"]
+    },
+    {
+        "nombre": " Arias Rodríguez Socorro",
+        "profesion": "Ingeniera Civil",
+        "pais":"Ecuador",
+        "Edad":"48",
+        "titulos":" Master en Diseno",
+        "Ciudad":"Portoviejo",
+        "foto": ["https://media.v2.siweb.es/uploaded_thumb_medium/75ced0231b30d5bbba39592fef39e64d/fotografia_curriculum_linkedin_corporativa_madrid_042.jpg"]
+    },
+    {
+        "nombre": "Armenta Romero Oscar Guillermo",
+        "profesion": "Ingeniero Civil",
+        "pais":"Ecuador",
+        "Edad":"29",
+        "titulos":"Licenciatura en Arquitectura ",
+        "Ciudad":"Portoviejo",
+        "foto": ["https://b282c5de4f50ed30d5ce-25e9f6b52714e6c3d4dbb7e330152014.ssl.cf3.rackcdn.com//uploaded_thumb_seo/75ced0231b30d5bbba39592fef39e64d/fotografia_curriculum_linkedin_corporativa_madrid_005.jpg"]
+    },
+    {
+        "nombre": "Arreola Amante Luis Fernando",
+        "profesion": "Ingeniero Civil",
+        "pais":"Ecuador",
+        "Edad":"55",
+        "titulos":"Licenciatura Civil, Master en Arquitectura",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://www.saramusico.com/wp-content/uploads/2016/11/book-profesional-fotos-profesionales0025.jpg"]
+    },
+    {
+        "nombre": " Ascencio Lopez María Solanda",
+        "profesion": "Ingeniera en Agropecuaria",
+        "pais":"Ecuador",
+        "Edad":"65",
+        "titulos":"Licenciatura en Agropecuaria",
+        "Ciudad":"Manta",
+        "foto": ["https://agencia-fotografia.com/wp-content/uploads/2015/12/sesion-fotoso1.jpg"]
+    },
+    {
+        "nombre": " Avalos Mendoza Miguel",
+        "profesion": "Ingeniero en Agropecuaria",
+        "pais":"Ecuador",
+        "Edad":"61",
+        "titulos":"Master en Agropecuaria",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://www.saramusico.com/wp-content/uploads/2016/11/book-profesional-fotografias-profesionales-curriculum-vitale-curriculo-0001.jpg"]
+    },
+    {
+        "nombre": " Avianeda Chávez Alfonso",
+        "profesion": "Ingeniero en Agropecuaria",
+        "pais":"Ecuador",
+        "Edad":"55",
+        "titulos":"Licenciatura en Agropecuaria, Master en Agropecuaria",
+        "Ciudad":"Manta",
+        "foto": ["https://www.molinarifoto.com.ar/wp-content/uploads/2017/10/Fotograf%C3%ADa-profesional-para-Linkedin-y-CV.jpg"]
+    },
+    {
+        "nombre": " Avila Becerril José Ambrosio",
+        "profesion": "Ingeniera en Agropecuaria",
+        "pais":"Ecuador",
+        "Edad":"35",
+        "titulos":" Doctorado en Agropecuaria",
+        "Ciudad":"Portoviejo",
+        "foto": ["https://www.molinarifoto.com.ar/wp-content/uploads/2017/10/Fotografia-de-retrato-perfil-Linkedin-redes.jpg"]
+    },
+    {
+        "nombre": " Ayala Quijano Mario Andrés",
+        "profesion": "Ingeniera Electrica",
+        "pais":"Ecuador",
+        "Edad":"45",
+        "titulos":"Licenciatura en Electricidad, Master en Electricidad",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://www.molinarifoto.com.ar/wp-content/uploads/2019/09/Foto-de-corriculum-hombre.jpg"]
+    },
+    {
+        "nombre": "Bacab Pech Guillermo",
+        "profesion": "Ingeniero Electrico",
+        "pais":"Ecuador",
+        "Edad":"55",
+        "titulos":"Licenciatura en Electricidad",
+        "Ciudad":"Manta",
+        "foto": ["https://cmartsproducciones.com/wp-content/uploads/2021/08/sesion-de-fotos-ejecutivos-linkedin-hombres-16.jpg"]
+    },
+    {
+        "nombre": "Báez Chávez Angel Salvador ",
+        "profesion": "IngenieraoElectrico",
+        "pais":"Ecuador",
+        "Edad":"27",
+        "titulos":"Licenciatura en Circuitos Electricos",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://i.pinimg.com/originals/18/71/8f/18718f5fa70af55d0ee1a9aa14f1fcd4.jpg"]
+    },
+    {
+        "nombre": "Balderas Flores Luis Alberto",
+        "profesion": "Abogado",
+        "pais":"Ecuador",
+        "Edad":"25",
+        "titulos":"Licenciatura en Leyes",
+        "Ciudad":"Manta",
+        "foto": ["https://i.pinimg.com/736x/b8/4e/d1/b84ed17e052d53008e5ba07cc63c3d0a.jpg"]
+    },
+    {
+        "nombre": "Ballesteros González Francisco",
+        "profesion": "Abogado",
+        "pais":"Ecuador",
+        "Edad":"22",
+        "titulos":"Licenciatura en Leyes, Master en Leyes, Doctorado en Leyes",
+        "Ciudad":"Manta",
+        "foto": ["https://i.pinimg.com/736x/c9/c6/64/c9c664d199dd4c90fb9866beccf89054.jpg"]
+    }
+]

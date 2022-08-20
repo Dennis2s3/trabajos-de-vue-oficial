@@ -1,0 +1,182 @@
+[
+    {
+        "nombre": " Acevedo Manríquez María Mireya",
+        "profesion": "Ingeniera en Sistemas",
+        "pais":"Ecuador",
+        "Edad":"25",
+        "titulos":"Licenciatura en Sistema, Master en Sistema, Doctorado en Sistema",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": "Acevedo Mejía Enrique",
+        "profesion": "Ingeniero en Sistemas",
+        "pais":"Ecuador",
+        "Edad":"38",
+        "titulos":"Licenciatura en Software, Master en Seguridad",
+        "Ciudad":"Portoviejo",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": " Acevedo Ruiz Carolina",
+        "profesion": "Ingeniera en Software",
+        "pais":"Ecuador",
+        "Edad":"36",
+        "titulos":"Licenciatura en Seguridad",
+        "Ciudad":"Portoviejo",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": "Galindo Aguirre Francisco",
+        "profesion": "Ingeniero en Sistemas",
+        "pais":"Ecuador",
+        "Edad":"29",
+        "titulos":"Licenciatura en Seguridad de la Informacion",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": "Gallart Becerra Melania",
+        "profesion": "Ingeniera en Sistemas",
+        "pais":"Ecuador",
+        "Edad":"26",
+        "titulos":"Licenciatura en Sistema, Master en Seguridad",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": "Roldán Briones Renata",
+        "profesion": "Ingeniera en Sistemas",
+        "pais":"Ecuador",
+        "Edad":"45",
+        "titulos":"Doctorado en Auditoria de Sotfware",
+        "Ciudad":"Manta",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": "Bueno Crespi Jordán",
+        "profesion": "Ingeniero en Sistemas",
+        "pais":"Ecuador",
+        "Edad":"56",
+        "titulos":"Master en Seguridad Informatica",
+        "Ciudad":"Manta",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": " Argello Melgar Ernesto",
+        "profesion": "Ingeniero Civil",
+        "pais":"Ecuador",
+        "Edad":"20",
+        "titulos":"Licenciatura en Arquitectura ",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": " Arias Rodríguez Socorro",
+        "profesion": "Ingeniera Civil",
+        "pais":"Ecuador",
+        "Edad":"48",
+        "titulos":" Master en Diseno",
+        "Ciudad":"Portoviejo",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": "Armenta Romero 5scar Guillermo",
+        "profesion": "Ingeniero Civil",
+        "pais":"Ecuador",
+        "Edad":"29",
+        "titulos":"Licenciatura en Arquitectura ",
+        "Ciudad":"Portoviejo",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": "Arreola Amante Luis Fernando",
+        "profesion": "Ingeniero Civil",
+        "pais":"Ecuador",
+        "Edad":"55",
+        "titulos":"Licenciatura Civil, Master en Arquitectura",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": " Ascencio Lopez María Solanda",
+        "profesion": "Ingeniera en Agropecuaria",
+        "pais":"Ecuador",
+        "Edad":"65",
+        "titulos":"Licenciatura en Agropecuaria",
+        "Ciudad":"Manta",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": " Avalos Mendoza Miguel",
+        "profesion": "Ingeniero en Agropecuaria",
+        "pais":"Ecuador",
+        "Edad":"61",
+        "titulos":"Master en Agropecuaria",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": " Avianeda Chávez Alfonso",
+        "profesion": "Ingeniero en Agropecuaria",
+        "pais":"Ecuador",
+        "Edad":"55",
+        "titulos":"Licenciatura en Agropecuaria, Master en Agropecuaria",
+        "Ciudad":"Manta",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": " Avila Becerril José Ambrosio",
+        "profesion": "Ingeniera en Agropecuaria",
+        "pais":"Ecuador",
+        "Edad":"35",
+        "titulos":" Doctorado en Agropecuaria",
+        "Ciudad":"Portoviejo",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": " Ayala Quijano Mario Andrés",
+        "profesion": "Ingeniera Electrica",
+        "pais":"Ecuador",
+        "Edad":"45",
+        "titulos":"Licenciatura en Electricidad, Master en Electricidad",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": "Bacab Pech Guillermo",
+        "profesion": "Ingeniero Electrico",
+        "pais":"Ecuador",
+        "Edad":"55",
+        "titulos":"Licenciatura en Electricidad",
+        "Ciudad":"Manta",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": "Báez Chávez Angel Salvador ",
+        "profesion": "IngenieraoElectrico",
+        "pais":"Ecuador",
+        "Edad":"27",
+        "titulos":"Licenciatura en Circuitos Electricos",
+        "Ciudad":"Montrecristi",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": "Balderas Flores Luis Alberto",
+        "profesion": "Abogado",
+        "pais":"Ecuador",
+        "Edad":"25",
+        "titulos":"Licenciatura en Leyes",
+        "Ciudad":"Manta",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    },
+    {
+        "nombre": "Ballesteros González Francisco",
+        "profesion": "Abogado",
+        "pais":"Ecuador",
+        "Edad":"22",
+        "titulos":"Licenciatura en Leyes, Master en Leyes, Doctorado en Leyes",
+        "Ciudad":"Manta",
+        "foto": ["https://joanboira.com/wp-content/uploads/2022/02/Filippo6039_w.jpg"]
+    }
+]
